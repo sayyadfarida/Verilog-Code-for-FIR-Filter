@@ -23,4 +23,4 @@ The testbench applies an impulse to the filter and then sets the input to zero, 
 Potential future enhancements for this project include expanding the filter to support a larger number of taps, implementing coefficient loading for dynamic filter design, or even porting the design to MATLAB for algorithm verification. Contributions are welcome, and users are encouraged to fork the repository, suggest improvements, or adapt the design for specific DSP applications.
 
 Output:
-
+![Image](https://github.com/user-attachments/assets/ae2b81a1-9f05-41bb-9b3b-27080b4908bf)
